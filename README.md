@@ -4,7 +4,6 @@
 
 ### Setup
 ```
-$ git clone https://github.com/pyxploiter/PDF2JSON.git
 $ cd PDF2JSON
 $ pip install -r requirements.txt
 ```
